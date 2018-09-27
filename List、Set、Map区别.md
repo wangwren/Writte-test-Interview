@@ -17,7 +17,7 @@
 - 不允许重复对象。
 - 无序容器，无法保证每个元素的存储顺序，TreeSet通过Comparator或者Comparable维护了一个排序顺序。
 - 只允许一个null元素
-- Set接口最流行的几个实现类是HashSet、LinkedHashSet一级TreeSet。
+- Set接口最流行的几个实现类是HashSet、LinkedHashSet以及TreeSet。
     - 最流行的是基于HashMap实现的HashSet。
     - TreeSet还实现了SortedSet接口，因此TreeSet是一个根据其compare()和compareTo()的定义进行排序的有序容器。
 ### Map
