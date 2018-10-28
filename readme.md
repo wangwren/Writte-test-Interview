@@ -10,7 +10,7 @@
 #### cookie和session从哪产生(东软)
 ### 如何实现网站用户三个月免登录(东软)
 ### [List、Set、Map区别(目前公司都爱问)](https://github.com/wangwren/Written-test-Interview/blob/master/List%E3%80%81Set%E3%80%81Map%E5%8C%BA%E5%88%AB.md)
-### 为什么说ArrayList是线程安全的(微鲤科技)
+### 为什么说ArrayList是线程不安全的(微鲤科技)
 ### 说一说hashSet
 ### hashSet与hashMap区别(微鲤科技)
 ### hashMap的底层实现(微鲤科技)
