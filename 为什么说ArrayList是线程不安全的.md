@@ -121,8 +121,8 @@ public class ArrayListThreadTest {
 }
 ```
 
-![1540729122956](./_image/%5CUsers%5Cwwr%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1540729122956.png)
+![1540729122956](./_image/123.png)
 
-![1540729232998](./_image/%5CUsers%5Cwwr%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1540729232998.png)
+![1540729232998](./_image/456.png)
 
 从运行结果可以看到，会出现数组越界异常，也有可能出现值为null的情况。
