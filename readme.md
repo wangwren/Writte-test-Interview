@@ -15,6 +15,9 @@
 ### 说一说hashSet
 ### hashSet与hashMap区别(微鲤科技)
 ### hashMap的底层实现(微鲤科技，今日头条)
+
+### [foreach遍历集合时进行remove操作的问题](http://wangwren.com/2019/02/foreach%E9%81%8D%E5%8E%86%E9%9B%86%E5%90%88%E6%97%B6%E8%BF%9B%E8%A1%8Cremove%E6%93%8D%E4%BD%9C%E7%9A%84%E9%97%AE%E9%A2%98/)
+
 ### Java回收机制
 ### 为什么说hibernate是全自动框架，mybatis是半自动框架(东软)
 ### Java异常处理
