@@ -21,10 +21,14 @@
 ### Java回收机制
 ### 为什么说hibernate是全自动框架，mybatis是半自动框架(东软)
 ### Java异常处理
+
 ### BigDecimal
+
 ### 线程
 
 ### [Spring事务的传播行为](http://wangwren.com/2019/02/Spring%E4%BA%8B%E5%8A%A1%E7%9A%84%E4%BC%A0%E6%92%AD%E8%A1%8C%E4%B8%BA/#more)
+
+###  Servlet的生命周期
 
 ## 计算机网络
 ### TCP协议，Http协议(阿里，微鲤科技)
@@ -39,6 +43,10 @@
 ### [数据库事务的特性和隔离级别](http://wangwren.com/2019/02/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E7%9A%84%E7%89%B9%E6%80%A7%E4%BB%A5%E5%8F%8A%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/)
 
 ### mysql索引(今日头条)
-### 左外连接(艾漫数据)
+
+### 左右连接区别
+
+### MySQL引擎
+
 ## 数据结构
 ### 如何使用两个栈来实现一个队列(今日头条)
