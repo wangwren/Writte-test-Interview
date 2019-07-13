@@ -1,6 +1,6 @@
 # 记录笔试和面试遇到的问题
 # 笔试
-### [单例设计模式](https://github.com/wangwren/Written-test-Interview/blob/master/singleton.md)
+### [单例设计模式](http://wangwren.com/2019/06/%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
 # 面试
 ## Java相关
 ### [EL表达式的内置对象](https://github.com/wangwren/Written-test-Interview/blob/master/EL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%86%85%E7%BD%AE%E5%AF%B9%E8%B1%A1.md)
